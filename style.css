@@ -112,6 +112,7 @@ body {
 
 #new-task {
   width: 360px;
+  flex-grow: 1;
 }
 
 .btn-add:hover {
